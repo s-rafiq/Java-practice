@@ -54,7 +54,6 @@ public class Main {
 
         // Working with variables
         String name = "Saad";
-        name = "raf";
         System.out.println(name);
 
         // Declaring and using a constant
